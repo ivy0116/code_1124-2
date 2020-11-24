@@ -1,0 +1,7 @@
+radio.onReceivedString(function (receivedString) {
+    basic.showString(receivedString)
+})
+radio.setGroup(10)
+basic.forever(function () {
+	
+})
